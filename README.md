@@ -9,7 +9,7 @@
  ╚═════╝╚═╝  ╚═╝ ╚═╝╚═╝        ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝
 </pre>
 
-**CyberSec Student @ CTU FIT | OSINT & Social Engineering | Hardware Tinkerer**
+**CyberSec Student @ CTU FIT | OSINT & Social Engineering | Network Engineer**
 
 </div>
 
