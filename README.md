@@ -62,5 +62,5 @@ I'm CyberSecurity student at CTU FIT in Prague. When i'm not currently playing s
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVUJ_GITHUB_USERNAME_ZDE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="[https://cr1pt0n1c.github.io/index.html]" alt="My Blog" />
 </div>
