@@ -27,12 +27,12 @@ I'm CyberSecurity student at CTU FIT in Prague. When i'm not currently playing s
 
 **🔥 Core Mastery:**
 <br>
-<img src="https://img.shields.io/badge/OSINT-Mastery-111111?style=for-the-badge&logo=tor&logoColor=white" alt="OSINT" />
-<img src="https://img.shields.io/badge/Social_Engineering-Expert-111111?style=for-the-badge&logo=ghost&logoColor=white" alt="Social Engineering" />
+<img src="https://img.shields.io/badge/Networking-Advanced-111111?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" /> 
+<img src="https://img.shields.io/badge/OSINT-Mastery-111111?style=for-the-badge&logo=tor&logoColor=white" alt="OSINT" /> 
+<img src="https://img.shields.io/badge/Social_Engineering-Expert-111111?style=for-the-badge&logo=ghost&logoColor=white" alt="Social Engineering" /> 
 
 **🧰 CyberSec & Networking Tools:**
 <br>
-<img src="https://img.shields.io/badge/Networking-Advanced-111111?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Nmap" />
