@@ -62,5 +62,5 @@ I'm CyberSecurity student at CTU FIT in Prague. When i'm not currently playing s
 ---
 
 <div align="center">
-  <img src="[https://cr1pt0n1c.github.io/index.html]" alt="My Blog" />
+  <a href="https://cr1pt0n1c.github.io/index.html">My Blog</a>
 </div>
