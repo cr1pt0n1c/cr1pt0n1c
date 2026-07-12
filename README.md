@@ -1,12 +1,12 @@
 <div align="center">
 
 <pre>
- ██████╗██████╗  ██╗██████╗ ████████╗ ██████╗ ███╗   ██╗██╗ ██████╗
-██╔════╝██╔══██╗███║██╔══██╗╚══██╔══╝██╔═══██╗████╗  ██║██║██╔════╝
-██║     ██████╔╝╚██║██████╔╝   ██║   ██║   ██║██╔██╗ ██║██║██║     
-██║     ██╔══██╗ ██║██╔═══╝    ██║   ██║   ██║██║╚██╗██║██║██║     
-╚██████╗██║  ██║ ██║██║        ██║   ╚██████╔╝██║ ╚████║██║╚██████╗
- ╚═════╝╚═╝  ╚═╝ ╚═╝╚═╝        ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝
+ ██████╗██████╗  ██╗██████╗ ████████╗ ██████╗ ███╗   ██╗██╗ ██████╗
+██╔════╝██╔══██╗███║██╔══██╗╚══██╔══╝██╔═══██╗████╗  ██║██║██╔════╝
+██║     ██████╔╝╚██║██████╔╝   ██║   ██║   ██║██╔██╗ ██║██║██║     
+██║     ██╔══██╗ ██║██╔═══╝    ██║   ██║   ██║██║╚██╗██║██║██║     
+╚██████╗██║  ██║ ██║██║        ██║   ╚██████╔╝██║ ╚████║██║╚██████╗
+ ╚═════╝╚═╝  ╚═╝ ╚═╝╚═╝        ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝
 </pre>
 
 **CyberSec Student @ CTU FIT | OSINT & Social Engineering | Network Engineer**
@@ -18,8 +18,8 @@
 ### 🕵️‍♂️ whoami
 I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playing a CTF, tinkering with hardware or watching cars go brm brm, I analyze networks and find vulnerabilities - both in code and in the human aspect. I'm a huge motorsport lover and I love to find creative solutions to complex problems.
 
-*   **Primary focus:** Absolute dedication to OSINT, Social Engineering & the human element. <br>
-*   **Secondary interests:** Network Engineering, Hardware, Motorsport data analysis.
+*   **Primary focus:** Absolute dedication to OSINT, Social Engineering & the human element. <br>
+*   **Secondary interests:** Network Engineering, Hardware, Motorsport data analysis.
 
 ---
 
@@ -27,9 +27,9 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 
 **🔥 Core Mastery:**
 <br>
-<img src="https://img.shields.io/badge/Networking-Advanced-111111?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" /> 
-<img src="https://img.shields.io/badge/OSINT-Mastery-111111?style=for-the-badge&logo=tor&logoColor=white" alt="OSINT" /> 
-<img src="https://img.shields.io/badge/Social_Engineering-Expert-111111?style=for-the-badge&logo=ghost&logoColor=white" alt="Social Engineering" /> 
+<img src="https://img.shields.io/badge/Networking-Advanced-111111?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" /> 
+<img src="https://img.shields.io/badge/OSINT-Mastery-111111?style=for-the-badge&logo=tor&logoColor=white" alt="OSINT" /> 
+<img src="https://img.shields.io/badge/Social_Engineering-Expert-111111?style=for-the-badge&logo=ghost&logoColor=white" alt="Social Engineering" /> 
 
 **🧰 CyberSec & Networking Tools:**
 <br>
@@ -117,7 +117,7 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 
 ### ⚙️ Currently Working On
 
-*   🎒 **Pythago:** Developing a gamified learning platform tailored for schools to make education more engaging.
+*   🔒 **[Voidline](https://github.com/cr1pt0n1c/voidline):** A privacy-first, end-to-end encrypted chat prototype — no email/phone accounts, zero server-side metadata, local-only encrypted history. Built as a personal answer to Chat Control-style scanning mandates.
 *   🔬 **Network Telemetry Correlation for Malware Behavior Analysis:** Conducting scientific research in collaboration with **CESNET** as part of the *CTU FIT Výzkumné léto* (Research Summer).
 
 ---
