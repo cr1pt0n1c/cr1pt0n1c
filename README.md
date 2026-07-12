@@ -117,7 +117,7 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 
 ### ⚙️ Currently Working On
 
-*   🔒 **[Voidline](https://github.com/cr1pt0n1c/voidline):** A privacy-first, end-to-end encrypted chat prototype — no email/phone accounts, zero server-side metadata, local-only encrypted history. Built as a personal answer to Chat Control-style scanning mandates.
+*   🔒 **[Voidline](https://github.com/cr1pt0n1c/voidline):** A privacy-first, end-to-end encrypted chat prototype - no email/phone accounts, zero server-side metadata, local-only encrypted history. Built as a personal answer to Chat Control-style scanning mandates.
 *   🔬 **Network Telemetry Correlation for Malware Behavior Analysis:** Conducting scientific research in collaboration with **CESNET** as part of the *CTU FIT Výzkumné léto* (Research Summer).
 
 ---
