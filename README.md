@@ -113,6 +113,13 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 *   Academic research conducted as part of my university studies, focusing on the security mechanisms and potential exploit vectors of LiDaR sensors in automotive.
 *   📊 **[Read the presentation here](https://github.com/CR1PT0N1C-Research-Labs/lidar-security-research)**
 
+#### 🔬 [More Research & Experimental Work]
+
+> **Further cybersecurity research, experiments and technical projects under CR1PT0N1C Research Labs.**
+
+* 🧪 Experimental security research covering network telemetry, malware analysis, traffic fingerprinting and detection engineering.
+* 🛠️ A collection of independent research projects, experiments and technical investigations developed alongside my academic work.
+* **[🔗 Explore CR1PT0N1C Research Labs](https://github.com/CR1PT0N1C-Research-Labs/)** 
 ---
 
 ### ⚙️ Currently Working On
