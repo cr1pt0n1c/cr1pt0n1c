@@ -18,7 +18,7 @@
 ### 🕵️‍♂️ whoami
 I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playing a CTF, tinkering with hardware or watching cars go brm brm, I analyze networks and find vulnerabilities - both in code and in the human aspect. I'm a huge motorsport lover and I love to find creative solutions to complex problems.
 
-*   **Primary focus:** Absolute dedication to OSINT, Social Engineering & the human element. <br>
+*   **Primary focus:** Absolute dedication to OSINT, Social Engineering, Behavioral analysis  & the human element. <br>
 *   **Secondary interests:** Network Engineering, Hardware, Motorsport data analysis.
 
 ---
