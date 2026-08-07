@@ -111,7 +111,7 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 #### 📡 [Hacking the Security of LiDaR Sensors]
 > **Security research on LiDaR sensor vulnerabilities.**
 *   Academic research conducted as part of my university studies, focusing on the security mechanisms and potential exploit vectors of LiDaR sensors in automotive.
-*   📊 **[Read the presentation here](./BI_TAB_SEMESTRAL.pdf)** *(PDF)*
+*   📊 **[Read the presentation here](https://github.com/CR1PT0N1C-Research-Labs/lidar-security-research)**
 
 ---
 
