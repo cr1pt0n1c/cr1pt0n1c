@@ -129,8 +129,6 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 
 ---
 
----
-
 <div align="center">
   <h3>📚 Want to see my write-ups & thoughts?</h3>
   <p>I occasionally share my findings, CTF write-ups, and cybersecurity rants.</p>
@@ -139,3 +137,83 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
     <img src="https://img.shields.io/badge/Read_My_Blog-111111?style=for-the-badge&logo=readme&logoColor=white" alt="My Blog" />
   </a>
 </div>
+
+---
+
+### 🏴‍☠️ CTF Competitions
+
+<div align="center">
+
+| Competition                |                       Result                       |
+| :------------------------- | :------------------------------------------------: |
+| **KyberSoutěž 2024/2025**  |        67th Overall · Eliminated in Round 2        |
+| **The Catch 2025**         |                     241st / 380                    |
+| **CTRL+SPACE FINALS 2025** | 🏆 4th Team / 6 · 5th Individual Contribution / 16 |
+| **AMATEURS CTF 2025**      |   124th / 853 *(solo player in team competition)*  |
+| **CYBER GAME WORLD 2026**  |                    403rd / 1,057                   |
+| **KyberSoutěž 2025/2026**  |       🏆 **15th Overall / 55 · 9th U20 / 38**      |
+
+</div>
+
+<details>
+<summary><b>🏆 KyberSoutěž 2025/2026 — Finalist</b></summary>
+
+<br>
+
+**Finals:** 15th Overall out of 55 finalists
+**U20:** 9th out of 38 competitors
+
+**Qualification:**
+
+* Round 1: 103rd in Prague
+* Round 2: 41st Overall
+* Advanced to Finals from **7,920 participants**
+* Successfully progressed through two qualification rounds
+
+</details>
+
+<details>
+<summary><b>🌐 CTRL+SPACE FINALS — Czech Cyber Team</b></summary>
+
+<br>
+
+Participated as online support for the **Czech Cyber Team**.
+
+* 🥇 **4th Team / 6**
+* 👤 **5th individual contribution to team points / 16 members**
+
+</details>
+
+---
+
+### 🏅 Other Competitions
+
+<sub>Competitions outside of CTF & cybersecurity</sub>
+
+<br>
+
+**🔬 Středoškolská Odborná Činnost (SOČ)**
+`District Round — 1st` · `Regional Round — 2nd` · `National Finals — 8th / 16`
+
+**🤖 VEX IQ CZECH OPEN 2024** · *Team "Smetáci"*
+`9th — Team Competition` · `7th — Skills Competition`
+*First edition of the High School Competition in this category*
+
+**🚁 MiniDron Plzeňského Kraje 2024**
+`6th Overall`
+
+**🤖 ČVUT RoboSoutěž 2023** · *Team "F#"*
+`1st Round — 3rd` · `FINALS — 21st`
+
+**🚁 MiniDron Plzeňského Kraje 2023**
+`4th Overall`
+
+---
+
+<div align="center">
+
+<sub>Always learning. Always breaking things. Always figuring out how they work.</sub>
+
+</div>
+
+
