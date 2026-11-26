@@ -210,7 +210,7 @@ Competition is still ongoing. Final standings are yet to be determined.
 
 ### 🏅 Other Competitions
 
-<sub>Competitions outside of CTF & cybersecurity</sub>
+Competitions outside of CTF & cybersecurity
 
 <br>
 
