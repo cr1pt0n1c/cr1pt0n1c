@@ -158,6 +158,18 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 </div>
 
 <details>
+<summary><b>🌐 CTRL+SPACE FINALS — Czech Cyber Team</b></summary>
+
+<br>
+
+Participated as online support for the **Czech Cyber Team**.
+
+* 🥇 **4th Team / 6**
+* 👤 **5th individual contribution to team points / 16 members**
+
+</details>
+
+<details>
 <summary><b>🏆 KyberSoutěž 2025/2026 — Finalist</b></summary>
 
 <br>
@@ -191,18 +203,6 @@ Round 2 — OSINT:
 🥈 2nd SENIOR out of 47 competitors
 
 Competition is still ongoing. Final standings are yet to be determined.
-
-</details>
-
-<details>
-<summary><b>🌐 CTRL+SPACE FINALS — Czech Cyber Team</b></summary>
-
-<br>
-
-Participated as online support for the **Czech Cyber Team**.
-
-* 🥇 **4th Team / 6**
-* 👤 **5th individual contribution to team points / 16 members**
 
 </details>
 
