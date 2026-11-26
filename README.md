@@ -209,8 +209,8 @@ Competition is still ongoing. Final standings are yet to be determined.
 ---
 
 ### 🏅 Other Competitions
-<sub>Competitions outside of CTF & cybersecurity</sub>
 
+*Competitions outside of CTF & cybersecurity*<br><br>
 
 **🔬 Středoškolská Odborná Činnost (SOČ)**
 `District Round — 1st` · `Regional Round — 2nd` · `National Finals — 8th / 16`
