@@ -144,14 +144,15 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 
 <div align="center">
 
-| Competition                |                       Result                       |
+| Competition | Result |
 | :------------------------- | :------------------------------------------------: |
-| **KyberSoutěž 2024/2025**  |        67th Overall · Eliminated in Round 2        |
-| **The Catch 2025**         |                     241st / 380                    |
+| **KyberSoutěž 2024/2025** | 67th Overall · Eliminated in Round 2 |
+| **The Catch 2025** | 241st / 380 |
 | **CTRL+SPACE FINALS 2025** | 🏆 4th Team / 6 · 5th Individual Contribution / 16 |
-| **AMATEURS CTF 2025**      |   124th / 853 *(solo player in team competition)*  |
-| **CYBER GAME WORLD 2026**  |                    403rd / 1,057                   |
-| **KyberSoutěž 2025/2026**  |       🏆 **15th Overall / 55 · 9th U20 / 38**      |
+| **AMATEURS CTF 2025** | 124th / 853 *(solo player in team competition)* |
+| **CYBER GAME WORLD 2026** | 403rd / 1,057 |
+| **KyberSoutěž 2025/2026** | 🏆 **15th Overall / 55 · 9th U20 / 38** |
+| **KyberSoutěž 2026/2027** | **🔄 In Progress · Round 2 (OSINT): 4th / 636 Overall · 2nd / 47 Senior** |
 
 </div>
 
@@ -161,6 +162,7 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 <br>
 
 **Finals:** 15th Overall out of 55 finalists
+
 **U20:** 9th out of 38 competitors
 
 **Qualification:**
@@ -169,6 +171,25 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 * Round 2: 41st Overall
 * Advanced to Finals from **7,920 participants**
 * Successfully progressed through two qualification rounds
+
+</details>
+
+<details>
+<summary><b>🚀 KyberSoutěž 2026/2027 — In Progress</b></summary>
+
+<br>
+
+Round 1:
+
+Completed · Results pending
+
+Round 2 — OSINT:
+
+🏆 4th Overall out of 636 participants
+
+🥈 2nd SENIOR out of 47 competitors
+
+Competition is still ongoing. Final standings are yet to be determined.
 
 </details>
 
