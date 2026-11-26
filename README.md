@@ -152,6 +152,7 @@ I'm a 20-year-old CyberSecurity student at CTU FIT in Prague. When I'm not playi
 | **AMATEURS CTF 2025** | 124th / 853 *(solo player in team competition)* |
 | **CYBER GAME WORLD 2026** | 403rd / 1,057 |
 | **KyberSoutěž 2025/2026** | 🏆 **15th Overall / 55 · 9th U20 / 38** |
+| **The Catch 2026** | 105th / 260 |
 | **KyberSoutěž 2026/2027** | **🔄 In Progress · Round 2 (OSINT): 4th / 636 Overall · 2nd / 47 Senior** |
 
 </div>
