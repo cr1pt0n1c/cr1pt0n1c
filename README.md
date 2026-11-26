@@ -192,15 +192,15 @@ Participated as online support for the **Czech Cyber Team**.
 
 <br>
 
-Round 1:
+**Round 1:**
 
-Completed · Results pending
+* Completed · Results pending
 
-Round 2 — OSINT:
+**Round 2 (Bonus Round - OSINT):**
 
-🏆 4th Overall out of 636 participants
+* 🏆 4th Overall out of 636 participants
 
-🥈 2nd SENIOR out of 47 competitors
+* 🥈 2nd SENIOR out of 47 competitors
 
 Competition is still ongoing. Final standings are yet to be determined.
 
