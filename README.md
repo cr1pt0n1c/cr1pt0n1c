@@ -210,8 +210,7 @@ Competition is still ongoing. Final standings are yet to be determined.
 
 ### 🏅 Other Competitions
 
-Competitions outside of CTF & cybersecurity
-
+* Competitions outside of CTF & cybersecurity
 <br>
 
 **🔬 Středoškolská Odborná Činnost (SOČ)**
